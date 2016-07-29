@@ -1,0 +1,32 @@
+/* CSS Document */
+body{
+margin: 2em;
+color: #ffffff;
+background-color: black
+}
+h1{
+text-align: center;
+color: #ffffff;
+background-color: #000000
+}
+
+div{
+padding: lem;
+color: #000000;
+background-color: #ffffff
+}
+
+#wrapper {
+	width: 910px;
+	margin: 0 auto;
+	padding: 20px;
+	background: #FFFFFF;
+}
+
+#header {
+	width: 910px;
+	height: 172px;
+	margin: 0 auto;
+	background: url(images/adminpic.gif) no-repeat center top;
+}
+

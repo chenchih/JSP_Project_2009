@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_request1" value="topicid" />
+	<infoitem key="UD_requestCount" value="2" />
+	<infoitem key="UD_request2" value="topic" />
+	<infoitem key="UD_reclist" value="name:topic_id;datatype:INTEGER,name:type;datatype:VARCHAR,name:topic;datatype:VARCHAR,name:face;datatype:VARCHAR,name:content;datatype:MEDIUMBLOB,name:posttime;datatype:TIMESTAMP,name:poster;datatype:VARCHAR,name:sex;datatype:VARCHAR,name:email;datatype:VARCHAR,name:url;datatype:VARCHAR,name:ip;datatype:VARCHAR,name:hits;datatype:INTEGER UNSIGNED,name:recount;datatype:BIGINT,name:newtime;datatype:VARCHAR" />
+</info>

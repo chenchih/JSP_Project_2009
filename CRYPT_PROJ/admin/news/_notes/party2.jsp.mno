@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_ParXOpt" value="name:ID;datatype:COUNTER,name:PartyTitle;datatype:VARCHAR,name:PartyContent;datatype:VARCHAR,name:PartyDate;datatype:DATETIME,name:Option;datatype:VARCHAR,name:OkNum;datatype:INTEGER,name:optionid;datatype:COUNTER" />
+	<infoitem key="UD_request1" value="PartyID" />
+	<infoitem key="UD_requestCount" value="1" />
+</info>

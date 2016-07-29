@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_newupd" value="name:id;datatype:VARCHAR,name:userid;datatype:VARCHAR,name:pwd;datatype:VARCHAR,name:name;datatype:VARCHAR,name:gender;datatype:VARCHAR,name:year;datatype:VARCHAR,name:month;datatype:VARCHAR,name:date;datatype:VARCHAR,name:address;datatype:VARCHAR,name:email;datatype:VARCHAR,name:phone;datatype:VARCHAR,name:edit_id;datatype:VARCHAR" />
+	<infoitem key="UD_newsupd" value="name:id;datatype:VARCHAR,name:userid;datatype:VARCHAR,name:pwd;datatype:VARCHAR,name:name;datatype:VARCHAR,name:gender;datatype:VARCHAR,name:year;datatype:VARCHAR,name:month;datatype:VARCHAR,name:date;datatype:VARCHAR,name:address;datatype:VARCHAR,name:email;datatype:VARCHAR,name:phone;datatype:VARCHAR,name:edit_id;datatype:VARCHAR" />
+</info>

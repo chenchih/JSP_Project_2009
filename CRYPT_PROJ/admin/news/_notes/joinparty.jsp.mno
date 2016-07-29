@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_JoinParty" value="name:ID;datatype:COUNTER,name:PartyTitle;datatype:VARCHAR,name:PartyContent;datatype:VARCHAR,name:PartyDate;datatype:DATETIME" />
+</info>

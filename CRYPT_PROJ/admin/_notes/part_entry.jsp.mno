@@ -1,0 +1,17 @@
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿnt.setMaxRows(Integer.parseInt(MaxRows));
+			ResultSet aRecordset = aStatement.executeQuery(SQL);
+			if (aRecordset != null)
+			{
+				return MarshallRecordsetIntoHTML(aRecordset);
+			}
+		}
+	}
+	catch (Exception e)
+	{
+		return HandleException(e);
+	}
+
+	return null;
+}
+
+public String ExecuteSP(JspWriter aOut,Connection aConn,String spName,int timeOut,String spParams,String SchemaName,String CatalogName)

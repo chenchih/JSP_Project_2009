@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes" ?>
+<un:pbmstore xmlns:un="http://usablenet.com/namespaces/508as_results">
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>10893</un:offset1>
+    <un:offset2>10951</un:offset2>
+    <un:linenum>353</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>11569</un:offset1>
+    <un:offset2>11639</un:offset2>
+    <un:linenum>370</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>14606</un:offset1>
+    <un:offset2>14655</un:offset2>
+    <un:linenum>409</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>14833</un:offset1>
+    <un:offset2>14882</un:offset2>
+    <un:linenum>412</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>16345</un:offset1>
+    <un:offset2>16405</un:offset2>
+    <un:linenum>445</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>16571</un:offset1>
+    <un:offset2>16634</un:offset2>
+    <un:linenum>450</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>16800</un:offset1>
+    <un:offset2>16859</un:offset2>
+    <un:linenum>455</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>17025</un:offset1>
+    <un:offset2>17084</un:offset2>
+    <un:linenum>460</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>10893</un:offset1>
+    <un:offset2>10951</un:offset2>
+    <un:linenum>353</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>11569</un:offset1>
+    <un:offset2>11639</un:offset2>
+    <un:linenum>370</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>14606</un:offset1>
+    <un:offset2>14655</un:offset2>
+    <un:linenum>409</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>14833</un:offset1>
+    <un:offset2>14882</un:offset2>
+    <un:linenum>412</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>16345</un:offset1>
+    <un:offset2>16405</un:offset2>
+    <un:linenum>445</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>16571</un:offset1>
+    <un:offset2>16634</un:offset2>
+    <un:linenum>450</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>16800</un:offset1>
+    <un:offset2>16859</un:offset2>
+    <un:linenum>455</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>17025</un:offset1>
+    <un:offset2>17084</un:offset2>
+    <un:linenum>460</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>SCRIPTwValidNOSCRIPT</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>9689</un:offset1>
+    <un:offset2>10375</un:offset2>
+    <un:linenum>307</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>Missing NOSCRIPT: There is no NOSCRIPT following the SCRIPT.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>DontRelyOnColorAlone</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>10377</un:offset1>
+    <un:offset2>17178</un:offset2>
+    <un:linenum>334</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ColorsAreVisible</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>10377</un:offset1>
+    <un:offset2>17178</un:offset2>
+    <un:linenum>334</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>StyleSheetsNotNecessary</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>10513</un:offset1>
+    <un:offset2>10581</un:offset2>
+    <un:linenum>338</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page uses style sheets to present its content. Somebrowsers might be unable to understand style sheets, or theprovided style sheets may conflict with user-specified styleinformation.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>TableWithHeaders</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>10977</un:offset1>
+    <un:offset2>11734</un:offset2>
+    <un:linenum>355</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>TableWithHeaders</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>11734</un:offset1>
+    <un:offset2>16172</un:offset2>
+    <un:linenum>374</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>TableWithHeaders</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>16181</un:offset1>
+    <un:offset2>17162</un:offset2>
+    <un:linenum>441</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>TextOnlyEquivPage</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>9689</un:offset1>
+    <un:offset2>10375</un:offset2>
+    <un:linenum>307</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>AccessibleScripts</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>11060</un:offset1>
+    <un:offset2>11188</un:offset2>
+    <un:linenum>358</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The 'INPUT' element has an event attribute ('ONCLICK'): check its accessibility.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>FormIsAccessible</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>10957</un:offset1>
+    <un:offset2>16181</un:offset2>
+    <un:linenum>354</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Make sure the linearized version of the form is still usable.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>SkipRepetitiveLinks</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>10834</un:offset1>
+    <un:offset2>17169</un:offset2>
+    <un:linenum>352</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Check if a textual link is present for skipping navigationallinks that are repeated in all the pages.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>NoFlickeringGIFs</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>10834</un:offset1>
+    <un:offset2>17169</un:offset2>
+    <un:linenum>352</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page contains GIF images: Are they causing the screen toflicker? If so, please modify or remove the images.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>NoFlickeringObjects</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>9689</un:offset1>
+    <un:offset2>10375</un:offset2>
+    <un:linenum>307</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>NoFlickeringObjects</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>10583</un:offset1>
+    <un:offset2>10823</un:offset2>
+    <un:linenum>343</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ClearLangForSite</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>10834</un:offset1>
+    <un:offset2>17169</un:offset2>
+    <un:linenum>352</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ClarifyNatLangUsage</un:ruleid>
+    <un:fileurl>file:///C|/Inetpub/wwwroot/board_final/board.asp</un:fileurl>
+    <un:offset1>10834</un:offset1>
+    <un:offset2>17169</un:offset2>
+    <un:linenum>352</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+</un:pbmstore>

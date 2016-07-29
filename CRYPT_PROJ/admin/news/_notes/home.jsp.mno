@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_requestCount" value="0" />
+	<infoitem key="UD_Recordset1" value="name:ID;datatype:COUNTER,name:FamName;datatype:VARCHAR,name:PassWord;datatype:VARCHAR,name:FamEmail;datatype:VARCHAR" />
+	<infoitem key="UD_Family" value="name:ID;datatype:COUNTER,name:FamName;datatype:VARCHAR,name:PassWord;datatype:VARCHAR,name:FamEmail;datatype:VARCHAR" />
+	<infoitem key="UD_joinparty" value="name:PartyTitle;datatype:VARCHAR,name:PartyContent;datatype:VARCHAR,name:PartyDate;datatype:DATETIME,name:FamName;datatype:VARCHAR,name:PassWord;datatype:VARCHAR" />
+</info>

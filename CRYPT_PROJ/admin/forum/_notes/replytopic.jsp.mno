@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rstopic" value="name:TopicName;datatype:VARCHAR" />
+	<infoitem key="UD_request1" value="TopicID" />
+	<infoitem key="UD_requestCount" value="1" />
+</info>

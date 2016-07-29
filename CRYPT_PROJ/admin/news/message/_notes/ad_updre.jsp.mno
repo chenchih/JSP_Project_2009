@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:TopicID;datatype:INTEGER,name:ReplyID;datatype:COUNTER,name:ReplyDate;datatype:DATETIME,name:ReplierName;datatype:VARCHAR,name:ReplierSex;datatype:VARCHAR,name:ReplierEmail;datatype:VARCHAR,name:ReplierSiteName;datatype:VARCHAR,name:ReplierSiteURL;datatype:VARCHAR,name:ReplierICQ;datatype:VARCHAR,name:ReplyBody;datatype:VARCHAR" />
+	<infoitem key="UD_updreply" value="name:TopicID;datatype:INTEGER,name:ReplyID;datatype:COUNTER,name:ReplyDate;datatype:DATETIME,name:ReplierName;datatype:VARCHAR,name:ReplierSex;datatype:VARCHAR,name:ReplierEmail;datatype:VARCHAR,name:ReplierSiteName;datatype:VARCHAR,name:ReplierSiteURL;datatype:VARCHAR,name:ReplierICQ;datatype:VARCHAR,name:ReplyBody;datatype:VARCHAR" />
+	<infoitem key="UD_request1" value="TopicID" />
+	<infoitem key="UD_requestCount" value="1" />
+</info>

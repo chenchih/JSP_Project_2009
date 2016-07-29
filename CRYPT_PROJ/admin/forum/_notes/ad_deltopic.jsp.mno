@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rstopic" value="name:TopicID;datatype:COUNTER,name:TopicType;datatype:INTEGER,name:TopicName;datatype:VARCHAR,name:AskerName;datatype:VARCHAR,name:AskerSex;datatype:BIT,name:AskerICQ;datatype:VARCHAR,name:AskerEmail;datatype:VARCHAR,name:AskerSiteName;datatype:VARCHAR,name:AskerSiteURL;datatype:VARCHAR,name:TopicBody;datatype:VARCHAR,name:PostDate;datatype:DATETIME,name:LastReplyDate;datatype:DATETIME,name:ReplyCount;datatype:INTEGER,name:HitCount;datatype:INTEGER" />
+	<infoitem key="UD_requestCount" value="1" />
+	<infoitem key="UD_recdeltopic" value="name:topic_id;datatype:INTEGER,name:type;datatype:VARCHAR,name:topic;datatype:VARCHAR,name:face;datatype:VARCHAR,name:content;datatype:VARCHAR,name:posttime;datatype:TIMESTAMP,name:poster;datatype:VARCHAR,name:email;datatype:VARCHAR,name:ip;datatype:VARCHAR,name:hits;datatype:INTEGER" />
+	<infoitem key="UD_request1" value="topic_id" />
+</info>

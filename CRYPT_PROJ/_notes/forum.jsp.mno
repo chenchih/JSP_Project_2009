@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_reclist" value="name:topic_id;datatype:INTEGER UNSIGNED,name:type;datatype:VARCHAR,name:topic;datatype:VARCHAR,name:face;datatype:VARCHAR,name:content;datatype:VARCHAR,name:posttime;datatype:TIMESTAMP,name:poster;datatype:VARCHAR,name:ip;datatype:VARCHAR,name:hits;datatype:INTEGER,name:recount;datatype:BIGINT,name:newtime;datatype:VARCHAR" />
+</info>
